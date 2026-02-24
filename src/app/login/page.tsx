@@ -130,7 +130,7 @@ const LoginPage: React.FC = () => {
                 <Typography variant="body2" color="text.secondary">
                   Testing vRoles? Use <b>admin@mail.com</b> for Admin access
                   or&nbsp;
-                  <b>user@mail.com</b> for standard access & password is &nbsp;
+                  <b>user1@mail.com</b> for standard access & password is &nbsp;
                   <b>Demo@123</b> .
                 </Typography>
               </Box>
